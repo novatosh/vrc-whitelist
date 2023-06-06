@@ -244,3 +244,4 @@ PasciFolf
 DrizzilyMetal
 Scorp1-0
 ~EchoShark~
+Rarilix
