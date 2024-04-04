@@ -259,6 +259,7 @@ Valkrie
 ValueFactory
 Ventus Wolf
 VEXTRUM
+SnugglyFuhr
 VioletVulpes
 Vizion The Fox
 VulpesViolacea
